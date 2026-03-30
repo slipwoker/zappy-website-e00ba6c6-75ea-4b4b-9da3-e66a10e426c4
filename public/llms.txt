@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover Jexsono, the rising beauty brand redefining skin care with products inspired by elizabeth arden skin care excellence. Your radiant skin journey starts here.
+
+### Features
+https://example.com/features
+Features | Jexsono. elizabeth arden skin care
+
+### About
+https://example.com/about
+Meet Jexsono — a bold new name among beauty brands crafting a legacy rooted in clean formulas, inclusive beauty, and a passion for transforming how the world sees skin care.
+
+### Contact
+https://example.com/contact
+Have questions or partnership ideas? Reach out to Jexsono today and join a growing community of beauty lovers who trust cosrx skincare-level quality in every product we create.
+
+### Products
+https://example.com/products
+Our Products - Jexsono
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Jexsono
+
+### Category
+https://example.com/category/:slug
+Products - Jexsono
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
